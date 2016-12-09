@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.0.0_dd3e6c7554c707e2d22f552321bbd7f2d0a6dc8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.0.0_424e925d5437bbb4452a7a2664b35ad5a23da1bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.0.0_1aa124cb272f805f8adc13cb6d0b29431dba0ab1.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\libs\jsr_305_javalib.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="29b3556b310d8deceae0d9240bc5087e11acfc7a">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\jsr_305_javalib_e5ef9c744b28728c1a3917988503b88535768e80.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\okio-1.6.0_94d320087b44b670a415aba29e4847135a333d60.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_4cfb536b3e796f354cbf3fe0ced5077e2bd3db5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\libs\guava_javalib.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8018b130b2f37bb397e845b375e5f12d6f39fe84">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\guava_javalib_567114199eb6fd04cda9216735b5755029c52411.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-9.0.0_7906bafd9c7d6527a702b9fe76554262a86c3784.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.0.0_9613771202880b85711d1f744812616b01e72b29.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.0.0_9e8de3ae176c60571de4e710b96441e06b78a100.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.0.0_89ae14b7c5d2fa0ee93a9fa1937bfa329a2f00af.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_8a2d657d818c7cbe61c22e434d7a1ce6dd4c2f8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_8f2ee731226b87aea1cd1be0f45689fa1a918a20.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.0.0_a477e40b88100082bbf832c56dbdf9a8c28a54ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\okhttp-3.2.0_ec0b4e365ac7d2e5e78380c299ac4db6fae639d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-9.0.0_29d61c2334ad4b9298f264c0bba3d69d02eb92e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\ernestt45h\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\ernestt45h\AndroidStudioProjects\Mk\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_3b2384d4fff86e4c2578a1d6d9704215c3dbd8ee.jar" />
+    </item>
+
+</items>
